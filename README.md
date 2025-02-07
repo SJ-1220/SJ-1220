@@ -35,10 +35,3 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
-
-<div>
-  <h3 align="center">:heavy_check_mark: Github Stats :heavy_check_mark:</h3>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJ-1220)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJ-1220)](https://github.com/anuraghazra/github-readme-stats)
-</div>
