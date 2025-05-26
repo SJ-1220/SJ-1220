@@ -1,3 +1,4 @@
+<!-- 마크다운 문법 대신 HTML 문법 사용 -->
 <div align="center"> 
   <header>
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=100&section=header&text=SunJin's%20GitHub&fontSize=40" />
@@ -37,9 +38,21 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
-<h3>:pushpin: Project :pushpin:</h3>
+<h3>:pushpin: Project :pushpin:</h3><br>
 <div>
   <img src="https://github.com/user-attachments/assets/d2f74c72-61f6-4e6d-ad61-42af5c9abd2c" height="40"/>    
-  <div>:speech_balloon: 네이버 로그인 기반의 Todo/메모 기능을 제공하며, Todo와 메모 연동, 드래그 앤 드롭을 통한 간편한 일정 관리를 지원합니다.</div>
-  <div>저쩌고</div>
+  <div>:speech_balloon: 네이버 로그인 기반의 Todo/메모 기능을 제공하며, Todo와 메모 연동, 드래그 앤 드롭을 통한 간편한 일정 관리를 지원하는 웹 프로젝트</div>
+  <div>:speech_balloon: CODE <a href="https://github.com/SJ-1220/NaviyNote">NaviyNote</a> </div>
+  <div>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div><br>
+<div>
+  <img src="https://github.com/user-attachments/assets/e5d6968d-06d1-456c-9624-9452ed797193" height="35"/>
+  <div>:speech_balloon: 웹 프로젝트</div>
+  <div>:speech_balloon: CODE <a href="https://github.com/EmotionalCore/frontend">감성코어</a></div>
+  <div>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </div>
 </div>
