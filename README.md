@@ -1,4 +1,4 @@
-## ✋1% 더 향상된 UX에 집중하는 개발자 김선진입니다👀
+<!-- ## ✋1% 더 향상된 UX에 집중하는 개발자 김선진입니다👀 -->
 
 - KwangWoon University with a major in Software
 - Web Front-end Developer
